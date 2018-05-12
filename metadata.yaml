@@ -25,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
 description: Iolanthe's wedding. -- The woman who was his friend. -- The New Year's
   eve confession. -- The gooseherd.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34358#Iolanthe-s-Wedding
 gutenberg_issued: '2010-11-18'
 gutenberg_type: Text
 identifiers:
